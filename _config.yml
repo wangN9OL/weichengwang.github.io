@@ -102,4 +102,6 @@ theme: yilia
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repository: git@github.com:zengjiahao1222/zengjiahao1222.github.io.git
+  branch: main
